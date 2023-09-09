@@ -1,10 +1,10 @@
 <Html>  
 <head>   
 <title>  
-Registration Page  
+Registration Page (New Edit) 
 </title>  
 </head>  
-<body bgcolor="White">  
+<body bgcolor="Red">  
 <br>  
 <br>  
 <form>  
